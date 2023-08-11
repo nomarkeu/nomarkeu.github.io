@@ -11,6 +11,6 @@ I made a 2D stealth game engine in C++ using [SFML](https://www.sfml-dev.org/). 
 
 *	[Github repository](https://github.com/nomarkeu/sneakattack)
 
-Resistor colorcode viewer
+Resistor colorcode viewer (C++ + Qt)
 
-[<video src="resistor-color-code-1.mp4" controls title="Title"></video>]
+[<video src="resistor-color-code.mp4" controls title="Title"></video>]

@@ -15,3 +15,7 @@ I made a 2D stealth game engine in C++ using [SFML](https://www.sfml-dev.org/). 
 Resistor colorcode viewer (C++ + Qt)
 
 ![Program recording](resistor-color-code-1.gif)
+
+Mini FPS with a cube as environment (C++ + Qt)
+
+![Program recording](viewport.gif)

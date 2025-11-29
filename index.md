@@ -6,7 +6,7 @@ layout: default
 2D Stealth Game Engine
 
 I made a 2D stealth game engine in C++ using [SFML](https://www.sfml-dev.org/). Why? Because there should be a Hitman + Mark of the Ninja stealth game in 2D Top-down and somebody should get started on it.
-![Game recording](game-1.gif)
+![Game recording](game-1.gif) Sooraj
 
 *	[Blog](https://nomarkeu.github.io/sneakattack/)
 
